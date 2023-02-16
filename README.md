@@ -2,7 +2,7 @@
 ## Breves Informações 📣
 - 🌱 atualmente estudo tecnologias aplicadas ao Front-End (foco em JS, TS e React), e mergulho em php.
 - 🦾 trabalho como auxiliar administrativo no Estado de Pernambuco, e estou em busca de outras oportunidades.
-- 👨🏽‍💻 minhas anotações de estudos em front end estão nesse caderno do Notion chamado (FRONT-END ESTUDOS)[https://perofelix.notion.site/FRONT-END-ESTUDOS-E-CERTIFICA-ES-26cd8355a0bc4401953671af539e14e8] -> se baseia no (TechGuide da Alura)[https://techguide.sh/pt-BR/path/front-end/]
+- 👨🏽‍💻 minhas anotações de estudos em front end estão nesse caderno do Notion chamado [FRONT-END ESTUDOS](https://perofelix.notion.site/FRONT-END-ESTUDOS-E-CERTIFICA-ES-26cd8355a0bc4401953671af539e14e8) -> se baseia no [TechGuide da Alura](https://techguide.sh/pt-BR/path/front-end/).
 
 ## Stacks 
 <div>
