@@ -17,7 +17,7 @@
 </div>
   
  ## Contatos e Links interessantes
- <div>
+ <div align="center">
    <a href="mailto:pedro.viniciusacm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://wa.me/5581992874343" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
    <a href="https://www.behance.net/pedrofelixg" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
