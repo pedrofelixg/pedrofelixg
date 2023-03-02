@@ -1,4 +1,9 @@
 # **Olá, bem vindo ao meu GitHub, eu sou Pedro Gonçalves**
+
+<div align="center">
+    <b>🧑‍💻 Desenvolvedor Front-End JR. | Javascript | HTML e CSS | React JS | Node JS | 🐘 PHP</b>
+</div>
+
 ## Breves Informações 📣
 - 🌱 atualmente estudo tecnologias aplicadas ao Front-End (foco em JS, TS e React), e mergulho em php.
 - 🦾 trabalho como auxiliar administrativo no Estado de Pernambuco, e estou em busca de outras oportunidades.
