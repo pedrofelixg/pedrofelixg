@@ -10,7 +10,7 @@
 - 👨🏽‍💻 minhas anotações de estudos em front end estão nesse caderno do Notion chamado [FRONT-END ESTUDOS](https://perofelix.notion.site/FRONT-END-ESTUDOS-E-CERTIFICA-ES-26cd8355a0bc4401953671af539e14e8) -> se baseia no [TechGuide da Alura](https://techguide.sh/pt-BR/path/front-end/).
 
 ## Stacks 
-<div>
+<div align="center">
   <a href="https://github.com/pedrofelixg/pedrofelixg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrofelixg&theme=onedark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofelixg&layout=compact&theme=onedark"/>
