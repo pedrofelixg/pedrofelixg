@@ -1,7 +1,7 @@
 # **Olá, bem vindo ao meu GitHub, eu sou Pedro Gonçalves**
 
 <div align="center">
-    <b>🧑‍💻 Desenvolvedor Front-End JR. | Javascript | HTML e CSS | React JS | Node JS | 🐘 PHP</b>
+    <b>🧑‍💻 Desenvolvedor Front-End JR. | Javascript | HTML e CSS | ⚛️ React JS | Node JS | 🐘 PHP</b>
 </div>
 
 ## Breves Informações 📣
