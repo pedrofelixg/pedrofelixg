@@ -1,7 +1,8 @@
 # **Olá, bem vindo ao meu GitHub, eu sou Pedro Gonçalves**
 
 <div align="center">
-    <b>🧑‍💻 Desenvolvedor Front-End JR. | Javascript | HTML e CSS | ⚛️ React JS | Node JS | 🐘 PHP</b>
+    <b>🧑‍💻 Desenvolvedor Front-End JR. | <img align="center" alt="logo-Js" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript | <img align="center" alt="logo-HTML" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="logo-CSS" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> HTML e CSS | ⚛️ React JS | <img align="center" alt="logo-NODE" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node JS | 🐘 PHP</b>
 </div>
 
 ## Breves Informações 📣
@@ -22,6 +23,5 @@
    <a href="https://wa.me/5581992874343" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
    <a href="https://www.behance.net/pedrofelixg" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
    <a href="www.linkedin.com/in/pedrofelixgonçalves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://codepen.io/pedrofelixg-the-flexboxer" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="logo-link"></a>
  </div>
-  
-
