@@ -2,7 +2,7 @@
 
 <div align="center">
     <b>🧑‍💻 Desenvolvedor Front-End JR. | <img align="center" alt="logo-Js" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript | <img align="center" alt="logo-HTML" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="logo-CSS" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> HTML e CSS | ⚛️ React JS | <img align="center" alt="logo-NODE" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node JS | 🐘 PHP</b>
+  <img align="center" alt="logo-CSS" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> HTML e CSS | <img align="center" alt="rect-logo" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React JS | <img align="center" alt="logo-NODE" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node JS | <img align="center" alt="php-logo" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP</b>
 </div>
 
 ## Breves Informações 📣
@@ -15,9 +15,11 @@
   <a href="https://github.com/pedrofelixg/pedrofelixg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrofelixg&theme=onedark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofelixg&layout=compact&theme=onedark"/>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedrofelixg&custom_title=Contributions&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
   
- ## Contatos e Links interessantes
+ ## **Contatos e Links interessantes**
  <div align="center">
    <a href="mailto:pedro.viniciusacm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://wa.me/5581992874343" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
